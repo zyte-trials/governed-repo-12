@@ -1,4 +1,4 @@
-# {{REPO_NAME}}
+# governed-repo-12
 
 > Created from **zyte-service-template** by the Zyte repo governance portal.
 
